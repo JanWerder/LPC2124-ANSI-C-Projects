@@ -2,6 +2,11 @@
 Thumbs.db
 ehthumbs.db
 
+*.bak
+*.hzp
+*.hzs
+ARM FLASH DEBUG/
+
 # Folder config file
 Desktop.ini
 
